@@ -30,6 +30,8 @@ uv run --with pytest==8.3.4 pytest -q
 
 ## Tài liệu
 
+Hồ sơ cá nhân và trạng thái bàn giao của tôi: [deliverables/README.md](deliverables/README.md).
+
 - [Guideline Road v1.0](docs/guideline_road_v1.0.md): đọc trước buổi, ít nhất là bảng label và quy tắc làn.
 - [Hướng dẫn bằng hình trên CVAT](docs/huong_dan_cvat_bang_hinh.md): từng bước từ đăng nhập tới export, chụp trên ảnh tổng hợp.
 - [Đặc tả bàn giao](docs/delivery_road_v1.0.md): định dạng file nộp, manifest, nộp lại sau Rework.

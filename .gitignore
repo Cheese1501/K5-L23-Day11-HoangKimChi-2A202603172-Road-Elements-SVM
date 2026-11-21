@@ -7,3 +7,24 @@ submissions/
 out/
 *.zip
 .env
+.venv/
+/deliverables/hoangkimchi-ai-integration.md
+/deliverables/hoangkimchi-ai-visual-report.md
+/deliverables/*.tmp
+
+# Tài nguyên và thử nghiệm model chỉ dùng local.
+serverless/
+configs/visual_review_decisions.json
+docs/huong_dan_ai_road.md
+docs/quy_trinh_ai_doc_anh.md
+tests/test_road_ai_adapter.py
+tests/test_visual_draft.py
+tools/*
+deliverables/minh-chung/
+deliverables/ho-tro/
+docs/thuoc_tinh_road_v1.md
+CONTRIBUTIONS.md
+
+# Chỉ đưa hai ZIP nhãn bắt buộc lên Git, không kèm ảnh.
+!/deliverables/hoangkimchi-front.zip
+!/deliverables/hoangkimchi-fisheye.zip
